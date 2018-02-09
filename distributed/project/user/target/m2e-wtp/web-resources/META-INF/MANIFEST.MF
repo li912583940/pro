@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: User Maven Webapp
+Implementation-Version: 1.0
+Implementation-Vendor-Id: com.sl.ue
+Build-Jdk: 1.7.0_17
+Built-By: Administrator
+Created-By: Maven Integration for Eclipse
+Implementation-URL: http://maven.apache.org
+

@@ -1,0 +1,8 @@
+com\sl\ue\web\UserWeb.class
+com\sl\ue\domain\User.class
+com\sl\ue\util\Page.class
+com\sl\ue\Application.class
+com\sl\ue\service\impl\UserImpl.class
+com\sl\ue\Swagger2.class
+com\sl\ue\util\StringUtil.class
+com\sl\ue\service\UserService.class
