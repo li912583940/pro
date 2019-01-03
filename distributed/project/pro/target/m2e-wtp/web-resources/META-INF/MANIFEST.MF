@@ -1,9 +1,9 @@
 Manifest-Version: 1.0
-Implementation-Vendor: Pivotal Software, Inc.
 Implementation-Title: pro Maven Webapp
 Implementation-Version: 1.0
+Built-By: Administrator
 Implementation-Vendor-Id: com.sl.ue
-Build-Jdk: 1.7.0_13
-Built-By: Mobo-pc
+Build-Jdk: 1.8.0_161
 Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
 
